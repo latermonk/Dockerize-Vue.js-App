@@ -1,5 +1,12 @@
-# vue-better-tomorrow
+# dockerize-vuejs-app
 
+https://vuejs.org/v2/cookbook/dockerize-vuejs-app.html
+
+
+
+
+
+---
 ## Project setup
 ```
 yarn install
