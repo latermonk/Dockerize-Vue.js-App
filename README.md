@@ -1,6 +1,11 @@
 # dockerize-vuejs-app
 
-https://vuejs.org/v2/cookbook/dockerize-vuejs-app.html
+
+```
+wget  https://raw.githubusercontent.com/latermonk/Dockerize-Vue.js-App/master/Dockerfile
+```
+
+
 
 
 ##  镜像编译 &  运行
@@ -47,3 +52,10 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+---
+
+https://vuejs.org/v2/cookbook/dockerize-vuejs-app.html
+
+
