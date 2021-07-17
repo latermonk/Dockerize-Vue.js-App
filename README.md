@@ -3,9 +3,10 @@
 https://vuejs.org/v2/cookbook/dockerize-vuejs-app.html
 
 
-##  simple
+##  镜像编译 &  运行
 
 打包
+
 ```
 docker build -t vuejs-cookbook/dockerize-vuejs-app .
 ```
