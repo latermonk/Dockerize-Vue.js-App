@@ -3,6 +3,22 @@
 https://vuejs.org/v2/cookbook/dockerize-vuejs-app.html
 
 
+##  simple
+打包
+```
+docker build -t vuejs-cookbook/dockerize-vuejs-app .
+```
+
+运行
+
+```
+docker run -it -p 8080:8080 --rm --name dockerize-vuejs-app-1 vuejs-cookbook/dockerize-vuejs-app
+
+```
+
+
+
+
 
 
 
